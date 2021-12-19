@@ -1,6 +1,6 @@
 {
-  "name": "lavamusic",
-  "description": "Lavamusic a powerful music Discord bot that need in your server",
+  "name": "mr.marlega",
+  "description": "mr.marlega a powerful music Discord bot that need in your server",
   "repository": "https://github.com/brblacky/lavamusic",
   "logo": "https://media.discordapp.net/attachments/876035356460462090/888434725235097610/20210820_124325.png",
   "keywords": ["discord", "discordjs", "music"],
@@ -32,7 +32,7 @@
      "description": "Channel I'd",
      "required": true
      },
-     "OWNERID":{
+     "OWNERID":{734445083415281794
      "description": "your discord id",
      "required": false
      },
