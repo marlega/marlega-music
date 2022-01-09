@@ -10,10 +10,10 @@ module.exports = {
 
   nodes: {
      
-      host: "lavalink.brblacky1.repl.co",
+      host: "lavalink-2.gangasagarcom.repl.co",
       port: 443,
       password: "LAVA",
-      id: "lavalink 5",
+      id: "lavalink 4",
       retryDelay: 3000,
       secure: true
     
